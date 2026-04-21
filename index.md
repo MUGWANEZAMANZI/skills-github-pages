@@ -1,3 +1,6 @@
 ---
-title: Am Audace MUGWANEZA MANZI!
+theme: minima
+title: MUGWANEZAMANZI's personal blog
+description: This is where I share cool stuff about my life
+author: MUGWANEZAMANZI
 ---
